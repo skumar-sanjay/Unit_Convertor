@@ -1,6 +1,4 @@
-Link=>https://github.com/skumar-sanjayUnitConvertor.java
-Link=>https://github.com/skumar-sanjay/Unit_Convertor/
-
+link => https://github.com/skumar-sanjay/Unit_Convertor.git
 About Project:-
 ==============
 1) In this project i'm trying to make a method that will convert any unit to any other unit.i need to ,i'm provide parameters for each input,<br> so i'm guessing it needs to ask the user parameters for startingNumber,conversionFactor,outputNumber.
